@@ -1,0 +1,30 @@
+.padLeft {
+    padding-left: 94px;
+}
+.filter {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    color: #192024;
+    margin-bottom: 14px;
+}
+
+.formmarginLeft {
+    margin-left: -5px;
+}
+
+.buttons {
+    margin-right: 8px;
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+}
+
+.labels {
+    margin-right: 18px;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    color: #192024;
+    vertical-align: middle;
+}
